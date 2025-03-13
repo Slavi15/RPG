@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Winds-of-Eldoria.sln"
+    "dotnet.defaultSolution": "RPG.sln"
 }
