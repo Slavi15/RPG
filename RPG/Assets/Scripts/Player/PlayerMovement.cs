@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private float speed = 5f;
     [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private Animator animator;
 
     void Update()
     {
@@ -18,6 +19,9 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        animator.SetFloat("Horizontal", Mathf.Abs(movementInput.x));
+        animator.SetFloat("Vertical", Mathf.Abs(movementInput.y));
+
         rb.linearVelocity = movementInput * speed;
     }
 }

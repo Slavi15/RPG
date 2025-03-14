@@ -238,7 +238,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -252,7 +252,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -275,7 +275,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -304,10 +304,10 @@ TextureImporter:
       name: Warrior_Yellow_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 1399
-        width: 80
-        height: 93
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: Warrior_Yellow_1
       rect:
         serializedVersion: 2
-        x: 254
-        y: 1399
-        width: 80
-        height: 93
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: Warrior_Yellow_2
       rect:
         serializedVersion: 2
-        x: 445
-        y: 1399
-        width: 82
-        height: 91
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: Warrior_Yellow_3
       rect:
         serializedVersion: 2
-        x: 637
-        y: 1399
-        width: 82
-        height: 89
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: Warrior_Yellow_4
       rect:
         serializedVersion: 2
-        x: 830
-        y: 1399
-        width: 80
-        height: 90
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: Warrior_Yellow_5
       rect:
         serializedVersion: 2
-        x: 1022
-        y: 1399
-        width: 80
-        height: 93
+        x: 960
+        y: 1344
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: Warrior_Yellow_6
       rect:
         serializedVersion: 2
-        x: 70
-        y: 1207
-        width: 62
-        height: 95
+        x: 0
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: Warrior_Yellow_7
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1207
-        width: 71
-        height: 96
+        x: 192
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: Warrior_Yellow_8
       rect:
         serializedVersion: 2
-        x: 447
-        y: 1207
-        width: 80
-        height: 82
+        x: 384
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: Warrior_Yellow_9
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1207
-        width: 64
-        height: 95
+        x: 576
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: Warrior_Yellow_10
       rect:
         serializedVersion: 2
-        x: 694
-        y: 1232
-        width: 32
-        height: 57
+        x: 768
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: Warrior_Yellow_11
       rect:
         serializedVersion: 2
-        x: 824
-        y: 1207
-        width: 61
-        height: 96
+        x: 960
+        y: 1152
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: Warrior_Yellow_12
       rect:
         serializedVersion: 2
-        x: 883
-        y: 1227
-        width: 32
-        height: 57
+        x: 0
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: Warrior_Yellow_13
       rect:
         serializedVersion: 2
-        x: 1022
-        y: 1207
-        width: 81
-        height: 82
+        x: 192
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: Warrior_Yellow_14
       rect:
         serializedVersion: 2
-        x: 57
-        y: 1015
-        width: 73
-        height: 110
+        x: 384
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: Warrior_Yellow_15
       rect:
         serializedVersion: 2
-        x: 248
-        y: 1015
-        width: 64
-        height: 99
+        x: 576
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: Warrior_Yellow_16
       rect:
         serializedVersion: 2
-        x: 296
-        y: 1067
-        width: 25
-        height: 62
+        x: 768
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: Warrior_Yellow_17
       rect:
         serializedVersion: 2
-        x: 440
-        y: 1015
-        width: 64
-        height: 99
+        x: 960
+        y: 960
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,10 +700,10 @@ TextureImporter:
       name: Warrior_Yellow_18
       rect:
         serializedVersion: 2
-        x: 488
-        y: 1067
-        width: 25
-        height: 62
+        x: 0
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: Warrior_Yellow_19
       rect:
         serializedVersion: 2
-        x: 651
-        y: 1015
-        width: 53
-        height: 90
+        x: 192
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -744,10 +744,10 @@ TextureImporter:
       name: Warrior_Yellow_20
       rect:
         serializedVersion: 2
-        x: 696
-        y: 1014
-        width: 64
-        height: 114
+        x: 384
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -766,10 +766,10 @@ TextureImporter:
       name: Warrior_Yellow_21
       rect:
         serializedVersion: 2
-        x: 841
-        y: 1012
-        width: 109
-        height: 94
+        x: 576
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -788,10 +788,10 @@ TextureImporter:
       name: Warrior_Yellow_22
       rect:
         serializedVersion: 2
-        x: 1026
-        y: 1015
-        width: 102
-        height: 91
+        x: 768
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -810,10 +810,10 @@ TextureImporter:
       name: Warrior_Yellow_23
       rect:
         serializedVersion: 2
-        x: 33
-        y: 823
-        width: 84
-        height: 91
+        x: 960
+        y: 768
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,10 +832,10 @@ TextureImporter:
       name: Warrior_Yellow_24
       rect:
         serializedVersion: 2
-        x: 223
-        y: 823
-        width: 86
-        height: 91
+        x: 0
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,10 +854,10 @@ TextureImporter:
       name: Warrior_Yellow_25
       rect:
         serializedVersion: 2
-        x: 415
-        y: 823
-        width: 86
-        height: 91
+        x: 192
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -876,10 +876,10 @@ TextureImporter:
       name: Warrior_Yellow_26
       rect:
         serializedVersion: 2
-        x: 633
-        y: 813
-        width: 125
-        height: 102
+        x: 384
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -898,10 +898,10 @@ TextureImporter:
       name: Warrior_Yellow_27
       rect:
         serializedVersion: 2
-        x: 827
-        y: 823
-        width: 68
-        height: 96
+        x: 576
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -920,10 +920,10 @@ TextureImporter:
       name: Warrior_Yellow_28
       rect:
         serializedVersion: 2
-        x: 896
-        y: 832
-        width: 55
-        height: 69
+        x: 768
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -942,10 +942,10 @@ TextureImporter:
       name: Warrior_Yellow_29
       rect:
         serializedVersion: 2
-        x: 904
-        y: 824
-        width: 16
-        height: 36
+        x: 960
+        y: 576
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,10 +964,10 @@ TextureImporter:
       name: Warrior_Yellow_30
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 823
-        width: 87
-        height: 90
+        x: 0
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -986,10 +986,10 @@ TextureImporter:
       name: Warrior_Yellow_31
       rect:
         serializedVersion: 2
-        x: 57
-        y: 631
-        width: 80
-        height: 103
+        x: 192
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1008,10 +1008,10 @@ TextureImporter:
       name: Warrior_Yellow_32
       rect:
         serializedVersion: 2
-        x: 246
-        y: 631
-        width: 66
-        height: 105
+        x: 384
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1030,10 +1030,10 @@ TextureImporter:
       name: Warrior_Yellow_33
       rect:
         serializedVersion: 2
-        x: 306
-        y: 674
-        width: 25
-        height: 62
+        x: 576
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1052,10 +1052,10 @@ TextureImporter:
       name: Warrior_Yellow_34
       rect:
         serializedVersion: 2
-        x: 438
-        y: 631
-        width: 66
-        height: 105
+        x: 768
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1074,10 +1074,10 @@ TextureImporter:
       name: Warrior_Yellow_35
       rect:
         serializedVersion: 2
-        x: 498
-        y: 674
-        width: 25
-        height: 62
+        x: 960
+        y: 384
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,10 +1096,10 @@ TextureImporter:
       name: Warrior_Yellow_36
       rect:
         serializedVersion: 2
-        x: 621
-        y: 588
-        width: 120
-        height: 139
+        x: 0
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1118,10 +1118,10 @@ TextureImporter:
       name: Warrior_Yellow_37
       rect:
         serializedVersion: 2
-        x: 808
-        y: 600
-        width: 91
-        height: 126
+        x: 192
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,10 +1140,10 @@ TextureImporter:
       name: Warrior_Yellow_38
       rect:
         serializedVersion: 2
-        x: 1013
-        y: 627
-        width: 68
-        height: 101
+        x: 384
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1162,10 +1162,10 @@ TextureImporter:
       name: Warrior_Yellow_39
       rect:
         serializedVersion: 2
-        x: 35
-        y: 439
-        width: 82
-        height: 95
+        x: 576
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: Warrior_Yellow_40
       rect:
         serializedVersion: 2
-        x: 226
-        y: 439
-        width: 83
-        height: 96
+        x: 768
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1206,10 +1206,10 @@ TextureImporter:
       name: Warrior_Yellow_41
       rect:
         serializedVersion: 2
-        x: 418
-        y: 439
-        width: 83
-        height: 96
+        x: 960
+        y: 192
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1228,10 +1228,10 @@ TextureImporter:
       name: Warrior_Yellow_42
       rect:
         serializedVersion: 2
-        x: 614
-        y: 411
-        width: 148
-        height: 119
+        x: 0
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1250,10 +1250,10 @@ TextureImporter:
       name: Warrior_Yellow_43
       rect:
         serializedVersion: 2
-        x: 835
-        y: 414
-        width: 118
-        height: 117
+        x: 192
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1272,10 +1272,10 @@ TextureImporter:
       name: Warrior_Yellow_44
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 439
-        width: 61
-        height: 96
+        x: 384
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,10 +1294,10 @@ TextureImporter:
       name: Warrior_Yellow_45
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 454
-        width: 47
-        height: 45
+        x: 576
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1316,10 +1316,10 @@ TextureImporter:
       name: Warrior_Yellow_46
       rect:
         serializedVersion: 2
-        x: 882
-        y: 412
-        width: 29
-        height: 26
+        x: 768
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1338,10 +1338,10 @@ TextureImporter:
       name: Warrior_Yellow_47
       rect:
         serializedVersion: 2
-        x: 74
-        y: 247
-        width: 64
-        height: 101
+        x: 960
+        y: 0
+        width: 192
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,451 +1356,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_48
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 247
-        width: 68
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a397c554df0e1f00800000000000000
-      internalID: 1089325564516864928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_49
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 247
-        width: 68
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab1dda7cdd31b3ff0800000000000000
-      internalID: -55428727153241670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_50
-      rect:
-        serializedVersion: 2
-        x: 622
-        y: 248
-        width: 118
-        height: 109
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6994c55702dca7e40800000000000000
-      internalID: 5655057821408709014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_51
-      rect:
-        serializedVersion: 2
-        x: 837
-        y: 345
-        width: 47
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8cfaf9b48dae2ee0800000000000000
-      internalID: -1283898058186490740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_52
-      rect:
-        serializedVersion: 2
-        x: 851
-        y: 248
-        width: 86
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3576e735cae57cdb0800000000000000
-      internalID: -4771741185947572397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_53
-      rect:
-        serializedVersion: 2
-        x: 1035
-        y: 247
-        width: 81
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37a56322d988ada40800000000000000
-      internalID: 5393773712194820723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_54
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 290
-        width: 10
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8da68aefe5df2eb30800000000000000
-      internalID: 4315289977415559896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_55
-      rect:
-        serializedVersion: 2
-        x: 613
-        y: 307
-        width: 17
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7ae73af4e8f9c420800000000000000
-      internalID: 2650923518018447998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_56
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 270
-        width: 59
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bc29370af3c62610800000000000000
-      internalID: 1596178596579847344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_57
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 254
-        width: 56
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f26b73ac99c645140800000000000000
-      internalID: 4707506918287455791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_58
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 254
-        width: 56
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f306fbc52eb97dcd0800000000000000
-      internalID: -2533384868851654593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_59
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 55
-        width: 99
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a5bd0859b0ccd8e0800000000000000
-      internalID: -1667245859755149911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_60
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 55
-        width: 101
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa4c4b7d723a32610800000000000000
-      internalID: 1595298084537287850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_61
-      rect:
-        serializedVersion: 2
-        x: 459
-        y: 55
-        width: 101
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d4ed1034992600c0800000000000000
-      internalID: -4609951452127959854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_62
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 56
-        width: 148
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aceb5249dc3cab900800000000000000
-      internalID: 701087979730747082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_63
-      rect:
-        serializedVersion: 2
-        x: 724
-        y: 92
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68b1e422a096d1ef0800000000000000
-      internalID: -135836921505113210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_64
-      rect:
-        serializedVersion: 2
-        x: 772
-        y: 94
-        width: 72
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4483b662ec9e3070800000000000000
-      internalID: 8088074477003572302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_65
-      rect:
-        serializedVersion: 2
-        x: 826
-        y: 56
-        width: 74
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82d8a58235458b4f0800000000000000
-      internalID: -812807016604332760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_66
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 86
-        width: 31
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d48302bef2ffbe530800000000000000
-      internalID: 3885479684810487885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_Yellow_67
-      rect:
-        serializedVersion: 2
-        x: 1032
-        y: 55
-        width: 62
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da7e96fea2ff68d00800000000000000
-      internalID: 974746929242695597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b8b94a4db5a21fd4ab9e0949c45ce3da
     internalID: 0
     vertices: []
     indices: 
@@ -1809,7 +1369,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Warrior_Yellow_0: 1991435032617538378
+      Warrior_Yellow_1: -6967288148028644749
+      Warrior_Yellow_10: -2187471619270954700
+      Warrior_Yellow_11: -1730311214312491107
+      Warrior_Yellow_12: -9173930890846004641
+      Warrior_Yellow_13: 100852292313613531
+      Warrior_Yellow_14: -1748595758175074802
+      Warrior_Yellow_15: -5496770217167107306
+      Warrior_Yellow_16: -8539356555806127068
+      Warrior_Yellow_17: 7225681854716281781
+      Warrior_Yellow_18: -7030607542886280917
+      Warrior_Yellow_19: -4157908292927387067
+      Warrior_Yellow_2: -4022200608054006397
+      Warrior_Yellow_20: 2602250000151032687
+      Warrior_Yellow_21: 3364761257953675028
+      Warrior_Yellow_22: -8335237267181682645
+      Warrior_Yellow_23: -5302145035101541793
+      Warrior_Yellow_24: -8992679245070357929
+      Warrior_Yellow_25: -7028266041091071233
+      Warrior_Yellow_26: 2144232616574780300
+      Warrior_Yellow_27: 6324208912828455707
+      Warrior_Yellow_28: 4633463401767340695
+      Warrior_Yellow_29: 4397865617136004219
+      Warrior_Yellow_3: -4285312004751942264
+      Warrior_Yellow_30: 8652470680015601653
+      Warrior_Yellow_31: -7355868163081092859
+      Warrior_Yellow_32: -5828544883868578437
+      Warrior_Yellow_33: -5308614454042287756
+      Warrior_Yellow_34: -618252575870951262
+      Warrior_Yellow_35: 7051205036580748173
+      Warrior_Yellow_36: -7310020424001536439
+      Warrior_Yellow_37: -5760356722022724595
+      Warrior_Yellow_38: 2295647409883671499
+      Warrior_Yellow_39: 2598412330396123018
+      Warrior_Yellow_4: 6419622488461153640
+      Warrior_Yellow_40: 1495826608280141849
+      Warrior_Yellow_41: -7765141425826519637
+      Warrior_Yellow_42: 40630138288693660
+      Warrior_Yellow_43: 7921104473877173894
+      Warrior_Yellow_44: -1532923145842775265
+      Warrior_Yellow_45: -3575772503862909307
+      Warrior_Yellow_46: -7483494299847601693
+      Warrior_Yellow_47: 4517469405552455284
+      Warrior_Yellow_5: -4971819575706166738
+      Warrior_Yellow_6: -4015984204674507470
+      Warrior_Yellow_7: -4006559205247594933
+      Warrior_Yellow_8: 938323130256339752
+      Warrior_Yellow_9: 2717981475013178385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
